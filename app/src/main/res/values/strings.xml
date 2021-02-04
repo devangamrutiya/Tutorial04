@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tutorial 04</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="login1">Login</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
